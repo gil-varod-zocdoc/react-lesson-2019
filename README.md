@@ -9,7 +9,7 @@ npm install --global gatsby-cli
 
 Then you can run it by:
 ```sh
-cd react-lesson-2018
+cd react-lesson-2019
 gatsby develop
 ```
 
